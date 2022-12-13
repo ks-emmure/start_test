@@ -2,13 +2,11 @@
 	"platforms": ["web"],
 	"properties": {
 		"author": {
-			"name": "PureQML Team",
-			"email": "team@pureqml.com",
-			"organization": "PureQML",
-			"site": "https://pureqml.com"
+			"name": "Konstantin Samsin",
+			"email": "ks.emmure@gmail.com"
 		},
-		"title": "mosaic",
-		"domain": "com.pureqml.mosaicdemo",
+		"title": "Test in START",
+		"domain": "test.ru",
 		"resolutionWidth": 1280,
 		"virtual.width": 1280,
 		"resolutionHeight": 720,
