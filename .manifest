@@ -5,8 +5,8 @@
 			"name": "Konstantin Samsin",
 			"email": "ks.emmure@gmail.com"
 		},
-		"title": "Test in START",
-		"domain": "test.ru",
+		"title": "test_start",
+		"domain": "com.pureqml.mosaicdemo",
 		"resolutionWidth": 1280,
 		"virtual.width": 1280,
 		"resolutionHeight": 720,
